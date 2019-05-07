@@ -5,4 +5,5 @@ Monolith architecture web application example
 2. JDK
 3. IDE etc: Spring tool suite / eclipse
 4. Setup IDE Maven 
-5. Create project using Spring Stater Project menu (Select db, connector, devtools, security and other requires)
+5. Create project using Spring Stater Project menu (Select db, connector, devtools, security and other requires) -> run first time project
+7. Setup LiveReload
